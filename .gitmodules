@@ -1,0 +1,3 @@
+[submodule "cotrained-ensembles"]
+	path = cotrained-ensembles
+	url = https://github.com/AlexRashduni/cotrained-ensembles
