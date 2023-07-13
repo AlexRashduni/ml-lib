@@ -1,3 +1,6 @@
 [submodule "cotrained-ensembles"]
 	path = cotrained-ensembles
 	url = https://github.com/AlexRashduni/cotrained-ensembles
+[submodule "transformer"]
+	path = transformer
+	url = https://github.com/AlexRashduni/transformer
